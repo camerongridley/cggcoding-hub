@@ -1,0 +1,33 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+  background-color: lightgray;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+
+.jumbotron {
+	background-color: slategray;
+	color: gray;
+	background-image: url("../img/keyboard.jpg");
+  background-size: cover;
+}
+
+.jumbotron h1 {
+	font-size: 48px;
+  	color: slategray;
+  	font-weight: bolder;
+  	text-shadow: 1px 1px white;
+}
