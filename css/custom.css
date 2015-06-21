@@ -2,6 +2,8 @@ body {
   padding-top: 70px;
   padding-bottom: 30px;
   background-color: lightgray;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 18px;
 }
 
 .theme-dropdown .dropdown-menu {
@@ -18,16 +20,26 @@ body {
   width: auto;
 }
 
+.navbar-brand {
+  font-family: 'Michroma', sans-serif;
+}
+
 .jumbotron {
 	background-color: slategray;
 	color: gray;
 	background-image: url("../img/keyboard.jpg");
   background-size: cover;
+  font-family: 'Michroma', sans-serif;
 }
 
 .jumbotron h1 {
 	font-size: 48px;
-  	color: slategray;
-  	font-weight: bolder;
-  	text-shadow: 1px 1px white;
+	color: slategray;
+	font-weight: bolder;
+	text-shadow: 1px 1px white;
+}
+
+.jumbotron p {
+  font-weight: bold;
+  text-shadow: 1px 1px purple;
 }
