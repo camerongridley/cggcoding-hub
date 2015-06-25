@@ -43,3 +43,7 @@ body {
   font-weight: bold;
   text-shadow: 1px 1px purple;
 }
+
+.page-header h1 {
+  font-family: 'Michroma', sans-serif;
+}
